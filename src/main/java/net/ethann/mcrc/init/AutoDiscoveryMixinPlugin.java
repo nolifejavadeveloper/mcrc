@@ -1,4 +1,4 @@
-package com.github.nolifejavadeveloper.mcrc.init;
+package net.ethann.mcrc.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
